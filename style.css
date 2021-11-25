@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading1{
+    font-family: "Roboto";
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.ErrMssg{
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.gender-heading{
+    color: #212529;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
